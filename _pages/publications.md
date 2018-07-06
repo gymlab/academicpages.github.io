@@ -7,7 +7,7 @@ author_profile: true
 ## Submitted/In preparation
 
 ## Journal Papers
-<font size="3em" color="black">1. Jee-Young Sun, __Seung-Wook Kim__, Sang-Won Lee, and Sung-Jea Ko, "A novel contrast enhancement forensics based on convolutional neural networks," _Signal Processing: Image Communication_, 2018.</font>
+<font size="4em" color="black">1. Jee-Young Sun, <b>Seung-Wook Kim</b>, Sang-Won Lee, and Sung-Jea Ko, "A novel contrast enhancement forensics based on convolutional neural networks," <i>Signal Processing: Image Communication</i>, 2018.</font>
 
 
 ## Conference Papers
