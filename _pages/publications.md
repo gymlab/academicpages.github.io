@@ -5,6 +5,12 @@ author_profile: true
 ---
 
 ## Submitted/In preparation
+* <font size="3.5em" color="black"> Bo-Sang Kim, Jee-Young Sun, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "A novel CNN-based user guided segmentationmethod using Cartesian to polar coordinatetransformation," submitted to <i>Electronics Letters</i>, 2018.</font>
+
+* <font size="3.5em" color="black"> Ming Fan, Dae-Hong Lee, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Optimization framework for inverse tone mapping using a single low dynamic range image," submitted to <i>Electronics Letters</i>, 2018.</font>
+
+* <font size="3.5em" color="black"> Dae-Hong Lee, Ming Fan, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "High dynamic range image tone mapping based on asymmetric model of retinal adaptation," submitted to <i>Signal Processing: Image Communication</i>, 2018.</font>
+
 
 ## Journal Papers
 * <font size="3.5em" color="black"> Jee-Young Sun, <b>Seung-Wook Kim</b>, Sang-Won Lee, and Sung-Jea Ko, "A novel contrast enhancement forensics based on convolutional neural networks," <i>Signal Processing: Image Communication</i>, 2018.</font>
@@ -36,4 +42,17 @@ author_profile: true
 
 * <font size="3.5em" color="black"> <b>Seung-Wook Kim</b>, Hyong-Keun Kook, Young-Hyun Kim, Jee-Young Sun, and Sung-Jea Ko, "Single shot object detection using spatial pyramid pooling," <i>ICEIC 2018</i>, Hawaii, USA, 2018.</font>
 
+* <font size="3.5em" color="black"> Joon-Yeon Kim, <b>Seung-Wook Kim</b>, Hyo-Young Kim, Won-Jae Park, and Sung-Jea Ko, "Improved pedestrian detection using joint aggregated channel features," <i>ICEIC 2016</i>, Da Nang, Vietnam, 2016.</font>
+
+* <font size="3.5em" color="black"> Ming Fan, June-Woo Yun, Keun-Young Byun, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "Automatic color calibration method for multiple display system using smart phone," <i>ICGHIT 2015</i>, Da Nang, Vietnam, 2015.</font>
+
+* <font size="3.5em" color="black"> <b>Seung-Wook Kim</b>, June-Young Jung, Seung Park, and Sung-Jea Ko, "Enhanced illumination normalization for LBP-based face recognition," <i>ICEIC 2014</i>, Kota Kinabalu, Malaysia, 2014.</font>
+
+* <font size="3.5em" color="black"> <b>Seung-Wook Kim</b>, June-Young Jung, Seung-Jun Lee, Aldo W. Morales, and Sung-Jea Ko, "Sensor fusion-based people counting system using the active appearance models," <i>ICCE 2013</i>, Las Vegas, USA, 2013.</font>
+
 ## Domestic Papers
+* <font size="3.5em" color="black"> <b>김승욱</b>, 김준연, 김효영, 박원재, 고성제, "ACF 기반의 보행자 검출을 위한 대조비 향상 기법," 대한전자공학회 추계학술대회 논문집, 2015.</font>
+
+* <font size="3.5em" color="black"> 김준연, <b>김승욱</b>, 김효영, 박원재, 고성제, "ACF 기반 보행자 검출기 성능 향상을 위한 특징 결합 기법," 대한전자공학회 추계학술대회 논문집, 2015.</font>
+
+* <font size="3.5em" color="black"> 지서원, 강석재, <b>김승욱</b>, 김채성, 고성제, "손실된 동적 영역을 고려한 개선된 가중치 맵 기반의 다중 노출 영상 합성 방법," 대한전자공학회 하계학술대회 논문집, 2015.</font>
