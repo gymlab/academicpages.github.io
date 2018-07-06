@@ -1,16 +1,17 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.co.kr/citations?user=UNZmEKIAAAAJ&hl=ko)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Submitted/In preparation
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Journal Papers
+Jee-Young Sun, **Seung-Wook Kim**, Sang-Won Lee, and Sung-Jea Ko, "A novel contrast enhancement forensics based on convolutional neural networks," _Signal Processing: Image Communication_, 2018.
+
+## Conference Papers
+
+
+## Domestic Papers
