@@ -13,6 +13,8 @@ author_profile: true
 
 
 ### Journal Articles
+* <font size="3em" color="black"> Dae-Hong Lee, Ming Fan, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "High dynamic range image tone mapping based on asymmetric model of retinal adaptation," to appear in <i>Signal Processing: Image Communication</i>, 2018.</font>
+
 * <font size="3em" color="black"> Jee-Young Sun, <b>Seung-Wook Kim</b>, Sang-Won Lee, and Sung-Jea Ko, "A novel contrast enhancement forensics based on convolutional neural networks," <i>Signal Processing: Image Communication</i>, 2018.</font>
 
 * <font size="3em" color="black"> Jee-Young Sun, <b>Seung-Wook Kim</b>, Sung-Ho Lee, Jae-Eun Choi, and Sung-Jea Ko, "Automatic facial pore analysis system using multi‐scale pore detection," <i>Skin Research and Technology</i>, 2017.</font>
