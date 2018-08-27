@@ -38,8 +38,11 @@ author_profile: true
 * <font size="3em" color="black"> Lei Lei, <b>Seung-wook Kim</b>, Won-jae Park, Dae-hwan Kim, and Sung-jea Ko, "Eigen directional bit-planes for robust face recognition," <i>IEEE transactions on Consumer Electronics</i>, 2014.</font>
 
 ### Conference Papers
-* <font size="3em" color="black"> <b>Seung-Wook Kim</b>, Hyong-Keun Kook, Jee-Young Sun, Mun-Cheon Kang, and Sung-Jea Ko, "Parallel Feature Pyramid Network for Object
-Detection," <i>ECCV 2018</i>, Munich, Germany, 2018.</font>
+* <font size="3em" color="black"> <b>Seung-Wook Kim</b>, Hyong-Keun Kook, Jee-Young Sun, Mun-Cheon Kang, and Sung-Jea Ko, "Parallel feature pyramid network for object
+detection," <i>ECCV 2018</i>, Munich, Germany, 2018.</font>
+
+* <font size="3em" color="black"> Jee-Young Sun, Sang-Won Lee, Mun-Cheon Kang, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "A novel gastric ulcer differentiation system using
+convolutional neural networks," <i>IEEE 31st International Symposium on Computer-Based Medical Systems (CBMS) 2018</i>, Karlstad, Sweden, 2018.</font>
 
 * <font size="3em" color="black"> Hyong-Keun Kook, <b>Seung-Wook Kim</b>, Sang-Won Lee, Young-Hyun Kim, and Sung-Jea Ko, "Object detection with multi-scale context aggregation," <i>ICEIC 2018</i>, Hawaii, USA, 2018.</font>
 
