@@ -33,8 +33,6 @@ author_profile: true
 
 * <font size="3em" color="black"> Chunfei Ma, June-Young Jung, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "Random projection-based partial feature extraction for robust face recognition," <i>Neurocomputing</i>, 2015.</font>
 
-* <font size="3em" color="black"> Chunfei Ma, June-Young Jung, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "Random projection-based partial feature extraction for robust face recognition," <i>Neurocomputing</i>, 2015.</font>
-
 * <font size="3em" color="black"> Lei Lei, <b>Seung-wook Kim</b>, Won-jae Park, Dae-hwan Kim, and Sung-jea Ko, "Eigen directional bit-planes for robust face recognition," <i>IEEE transactions on Consumer Electronics</i>, 2014.</font>
 
 ### Conference Papers
