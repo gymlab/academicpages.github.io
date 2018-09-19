@@ -5,13 +5,13 @@ author_profile: true
 ---
 
 ### Submitted/In preparation
-* <font size="3em" color="black"> Bo-Sang Kim, Jee-Young Sun, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "A novel CNN-based user guided segmentationmethod using Cartesian to polar coordinatetransformation," submitted to <i>Electronics Letters</i>, 2018.</font>
-
 * <font size="3em" color="black"> Ming Fan, Dae-Hong Lee, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Optimization framework for inverse tone mapping using a single low dynamic range image," submitted to <i>Electronics Letters</i>, 2018.</font>
 
 
 ### Journal Articles
-* <font size="3em" color="black"> Dae-Hong Lee, Ming Fan, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "High dynamic range image tone mapping based on asymmetric model of retinal adaptation," to appear in <i>Signal Processing: Image Communication</i>, 2018.</font>
+* <font size="3em" color="black"> Bo-Sang Kim, Jee-Young Sun, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "A novel CNN-based user guided segmentationmethod using Cartesian to polar coordinatetransformation," to appear in <i>Electronics Letters</i>, 2018.</font>
+
+* <font size="3em" color="black"> Dae-Hong Lee, Ming Fan, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "High dynamic range image tone mapping based on asymmetric model of retinal adaptation," <i>Signal Processing: Image Communication</i>, 2018.</font>
 
 * <font size="3em" color="black"> Jee-Young Sun, <b>Seung-Wook Kim</b>, Sang-Won Lee, and Sung-Jea Ko, "A novel contrast enhancement forensics based on convolutional neural networks," <i>Signal Processing: Image Communication</i>, 2018.</font>
 
