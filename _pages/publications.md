@@ -9,7 +9,7 @@ author_profile: true
 
 
 ### Journal Articles
-* <font size="3em" color="black"> Bo-Sang Kim, Jee-Young Sun, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "A novel CNN-based user guided segmentationmethod using Cartesian to polar coordinatetransformation," to appear in <i>Electronics Letters</i>, 2018.</font>
+* <font size="3em" color="black"> Bo-Sang Kim, Jee-Young Sun, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "A novel CNN-based user guided segmentation method using Cartesian to polar coordinate transformation," to appear in <i>Electronics Letters</i>, 2018.</font>
 
 * <font size="3em" color="black"> Dae-Hong Lee, Ming Fan, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "High dynamic range image tone mapping based on asymmetric model of retinal adaptation," <i>Signal Processing: Image Communication</i>, 2018.</font>
 
