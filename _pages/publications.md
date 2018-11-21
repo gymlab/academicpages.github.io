@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 ### Submitted/In preparation
-* <font size="3em" color="black"> Ming Fan, Dae-Hong Lee, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Optimization framework for inverse tone mapping using a single low dynamic range image," submitted to <i>Electronics Letters</i>, 2018.</font>
+* <font size="3em" color="black"> Ming Fan, Dae-Hong Lee, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Optimization framework for inverse tone mapping using a single low dynamic range image," submitted to <i>Signal Processing: Image Communication</i>.</font>
 
 
 ### Journal Articles
-* <font size="3em" color="black"> Bo-Sang Kim, Jee-Young Sun, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "A novel CNN-based user guided segmentation method using Cartesian to polar coordinate transformation," to appear in <i>Electronics Letters</i>, 2018.</font>
+* <font size="3em" color="black"> Bo-Sang Kim, Jee-Young Sun, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "CNN-based UGS method using Cartesian-to-polar coordinate transformation," <i>Electronics Letters</i>, 2018.</font>
 
 * <font size="3em" color="black"> Dae-Hong Lee, Ming Fan, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "High dynamic range image tone mapping based on asymmetric model of retinal adaptation," <i>Signal Processing: Image Communication</i>, 2018.</font>
 
