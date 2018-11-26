@@ -57,6 +57,8 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 * <font size="3em" color="black"> <b>Seung-Wook Kim</b>, June-Young Jung, Seung-Jun Lee, Aldo W. Morales, and Sung-Jea Ko, "Sensor fusion-based people counting system using the active appearance models," <i>ICCE 2013</i>, Las Vegas, USA, 2013.</font>
 
 ### Domestic Papers
+* <font size="3em" color="black"> <b>김승욱</b>, 김준연, 선지영, 고성제, "보행자 검출기의 성능 향상을 위한 인지시각 시스템의 특성에 기반한 특징 추출 기법," 대한전자공학회 추계학술대회 논문집, 2016.</font>
+
 * <font size="3em" color="black"> <b>김승욱</b>, 김준연, 김효영, 박원재, 고성제, "ACF 기반의 보행자 검출을 위한 대조비 향상 기법," 대한전자공학회 추계학술대회 논문집, 2015.</font>
 
 * <font size="3em" color="black"> 김준연, <b>김승욱</b>, 김효영, 박원재, 고성제, "ACF 기반 보행자 검출기 성능 향상을 위한 특징 결합 기법," 대한전자공학회 추계학술대회 논문집, 2015.</font>
