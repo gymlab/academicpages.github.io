@@ -7,8 +7,6 @@ author_profile: true
 ## Current Projects
 * "Development of Global Multi-Target Tracking and Event Prediction Techniques Based on Real-Time Large-Scale Video Analysis (Deep-View)," _Institute for Information & commu-nications Technology Promotion (IITP)_, 3/2015-12/2018
 
-* "Development of Global Multi-Target Tracking and Event Prediction Techniques Based on Real-Time Large-Scale Video Analysis," _Ministry of Trade, Industry & Energy (MOTIE)_, 11/2017-12/2018
-
 ## Completed Projects
 * "Development of High Speed DNN based Video Segmentation Technology," _LG Electronics Co., Ltd._, 4/2017-7/2017
 
