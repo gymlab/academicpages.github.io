@@ -8,7 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [School of Electrical Engineering](https://ee.korea.ac.kr/), [Korea University](http://korea.ac.kr/mbshome/mbs/university/), Seoul, Korea. I received the B.S. degree in the [School of Electrical Engineering](https://ee.korea.ac.kr/), [Korea University](http://korea.ac.kr/mbshome/mbs/university/), Seoul, Korea, in 2012. I entered the [Computer Vision & Image Processing](https://dali.korea.ac.kr/) Lab in 2012. My research interests are image image/video processing, computer vision, illumination normalization, and object detection.
+I am currently a Ph.D. student in the [School of Electrical Engineering](https://ee.korea.ac.kr/), [Korea University](http://korea.ac.kr/mbshome/mbs/university/), Seoul, Korea. I received the B.S. degree in the [School of Electrical Engineering](https://ee.korea.ac.kr/), [Korea University](http://korea.ac.kr/mbshome/mbs/university/), Seoul, Korea, in 2012. I entered the [Computer Vision & Image Processing](https://dali.korea.ac.kr/) Lab in 2012.
 
-<!-- ## News
-%* 1 paper is accepted to ECCV 2018. -->
+### Research Interests
+* Deep learning
+* Convolutional neural network
+* Object detection
+* Face Recognition
+* Image color enhancement
+* Illuination/color normalization
+
+### Computer Skills
+* Operating systems: Windows, Ubuntu
+* Languages: C/C++, Python, MATLAB
+
+### Contact Information
+* E-mail: swkim@dali.korea.ac.kr
