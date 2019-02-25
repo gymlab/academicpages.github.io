@@ -20,6 +20,7 @@ I am currently a Postdoctoral Fellow in the [School of Electrical Engineering](h
 
 ### News
 * One paper is accepted by CVPR 2019.
+* Winner of NAVER AI Hackathon 2018 (Image retrieval).
 * One paper is accepted by ECCV 2018.
 
 ### Computer Skills
