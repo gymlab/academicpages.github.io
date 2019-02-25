@@ -18,6 +18,10 @@ I am currently a Postdoctoral Fellow in the [School of Electrical Engineering](h
 * Image color enhancement
 * Illuination/color normalization
 
+### News
+* One paper is accepted by CVPR 2019.
+* One paper is accepted by ECCV 2018.
+
 ### Computer Skills
 * Operating systems: Windows, Ubuntu
 * Languages: C/C++, Python, MATLAB
