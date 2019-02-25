@@ -36,6 +36,8 @@ author_profile: true
 * <font size="3em" color="black"> Lei Lei, <b>Seung-wook Kim</b>, Won-jae Park, Dae-hwan Kim, and Sung-jea Ko, "Eigen directional bit-planes for robust face recognition," <i>IEEE transactions on Consumer Electronics</i>, 2014.</font>
 
 ### Conference Papers
+* <font size="3em" color="black"> Min-Cheol Sagong, Yong-Goo Shin, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Fast Image Inpainting with Parallel Decoding Network," to appear in <i>CVPR 2019</i>.</font>
+
 * <font size="3em" color="black"> <b>Seung-Wook Kim</b>, Hyong-Keun Kook, Jee-Young Sun, Mun-Cheon Kang, and Sung-Jea Ko, "Parallel feature pyramid network for object
 detection," <i>ECCV 2018</i>, Munich, Germany, 2018.</font>
 
