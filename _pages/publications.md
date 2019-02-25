@@ -6,7 +6,7 @@ author_profile: true
 
 ### Submitted/In preparation
 * <font size="3em" color="black"> Ming Fan, Dae-Hong Lee, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Optimization framework for inverse tone mapping using a single low dynamic range image," submitted to <i>Signal Processing: Image Communication</i>.</font>
-
+* <font size="3em" color="black"> Yong-Goo Shin, Cheol-Hwan Yoo, <b>Seung-Wook Kim</b>, Euiyeol Oh, Sung-Jea Ko, "Deep style learning with convolutional neural network for fashion recommendation," submitted to <i>Electronic Letters</i>.</font>
 
 ### Journal Articles
 * <font size="3em" color="black"> Bo-Sang Kim, Jee-Young Sun, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "CNN-based UGS method using Cartesian-to-polar coordinate transformation," <i>Electronics Letters</i>, 2018.</font>
