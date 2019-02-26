@@ -38,6 +38,8 @@ author_profile: true
 ### Conference Papers
 * <font size="3em" color="black"> Min-Cheol Sagong, Yong-Goo Shin, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Fast Image Inpainting with Parallel Decoding Network," to appear in <i>CVPR 2019</i>.</font>
 
+* <font size="3em" color="black"> Sung-Jin Cho, <b>Seung-Wook Kim</b>, Kwang-Hyun Uhm, Hyong-Keun Kook, and Sung-Jea Ko, "Learning an object detector using zoomed object regions," <i>ICEIC 2019</i>, Auckland, New Zealand, 2019.</font>
+
 * <font size="3em" color="black"> <b>Seung-Wook Kim</b>, Hyong-Keun Kook, Jee-Young Sun, Mun-Cheon Kang, and Sung-Jea Ko, "Parallel feature pyramid network for object
 detection," <i>ECCV 2018</i>, Munich, Germany, 2018.</font>
 
