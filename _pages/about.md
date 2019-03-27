@@ -16,7 +16,7 @@ I am currently a Postdoctoral Fellow in the [School of Electrical Engineering](h
 * Object detection
 * Face Recognition
 * Image color enhancement
-* Illuination/color normalization
+* Illumination/color normalization
 
 ### News
 * One paper is accepted by CVPR 2019.
