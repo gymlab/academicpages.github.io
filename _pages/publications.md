@@ -36,6 +36,8 @@ author_profile: true
 * <font size="3em" color="black"> Lei Lei, <b>Seung-wook Kim</b>, Won-jae Park, Dae-hwan Kim, and Sung-jea Ko, "Eigen directional bit-planes for robust face recognition," <i>IEEE transactions on Consumer Electronics</i>, 2014.</font>
 
 ### Conference Papers
+* <font size="3em" color="black"> <b>Seung-Wook Kim</b>, Sung-Jin Cho, Kwang-Hyun Uhm, Seo-Won Ji, Sang-Won Lee, and Sung-Jea Ko, "Evaluating Parameterization Methods for Convolutional Neural Network (CNN)-Based Image Operators," to appear in <i>CVPRW 2019</i>.</font>
+
 * <font size="3em" color="black"> Min-Cheol Sagong, Yong-Goo Shin, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Fast Image Inpainting with Parallel Decoding Network," to appear in <i>CVPR 2019</i>.</font>
 
 * <font size="3em" color="black"> Sung-Jin Cho, <b>Seung-Wook Kim</b>, Kwang-Hyun Uhm, Hyong-Keun Kook, and Sung-Jea Ko, "Learning an object detector using zoomed object regions," <i>ICEIC 2019</i>, Auckland, New Zealand, 2019.</font>
