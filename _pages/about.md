@@ -19,6 +19,7 @@ I am currently a Postdoctoral Fellow in the [School of Electrical Engineering](h
 * Illumination/color normalization
 
 ### News
+* One paper is accepted by CVPRW 2019.
 * One paper is accepted by CVPR 2019.
 * Winner of NAVER AI Hackathon 2018 (Image retrieval).
 * One paper is accepted by ECCV 2018.
