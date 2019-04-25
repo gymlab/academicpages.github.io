@@ -36,6 +36,8 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 * <font size="3em" color="black"> <b>Seung-Wook Kim</b>, June-Young Jung, Seung-Jun Lee, Aldo W. Morales, and Sung-Jea Ko, "Sensor fusion-based people counting system using the active appearance models," <i>ICCE 2013</i>, Las Vegas, USA, 2013.</font>
 
 ### Journal Articles
+* <font size="3em" color="black"> Chul-Hwan Yoo, Yong-Gu Shin, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "Context-aware encoding for clothing semantic parsing," to appear in <i>Electronics Letters</i>, 2019.</font>
+
 * <font size="3em" color="black"> Bo-Sang Kim, Jee-Young Sun, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "CNN-based UGS method using Cartesian-to-polar coordinate transformation," <i>Electronics Letters</i>, 2018.</font>
 
 * <font size="3em" color="black"> Dae-Hong Lee, Ming Fan, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "High dynamic range image tone mapping based on asymmetric model of retinal adaptation," <i>Signal Processing: Image Communication</i>, 2018.</font>
