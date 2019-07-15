@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 ### Submitted/In preparation
-* <font size="3em" color="black"> Ming Fan, Dae-Hong Lee, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Optimization framework for inverse tone mapping using a single low dynamic range image," submitted to <i>Signal Processing: Image Communication</i>.</font>
 * <font size="3em" color="black"> Yong-Goo Shin, Cheol-Hwan Yoo, <b>Seung-Wook Kim</b>, Euiyeol Oh, Sung-Jea Ko, "Deep style learning with convolutional neural network for fashion recommendation," submitted to <i>Electronic Letters</i>.</font>
 
 ### Conference Papers
@@ -36,7 +35,9 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 * <font size="3em" color="black"> <b>Seung-Wook Kim</b>, June-Young Jung, Seung-Jun Lee, Aldo W. Morales, and Sung-Jea Ko, "Sensor fusion-based people counting system using the active appearance models," <i>ICCE 2013</i>, Las Vegas, USA, 2013.</font>
 
 ### Journal Articles
-* <font size="3em" color="black"> Chul-Hwan Yoo, Yong-Gu Shin, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "Context-aware encoding for clothing semantic parsing," to appear in <i>Electronics Letters</i>, 2019.</font>
+* <font size="3em" color="black"> Ming Fan, Dae-Hong Lee, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Optimization framework for inverse tone mapping using a single low dynamic range image," to appear in <i>Signal Processing: Image Communication</i>.</font>
+
+* <font size="3em" color="black"> Chul-Hwan Yoo, Yong-Gu Shin, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "Context-aware encoding for clothing semantic parsing," <i>Electronics Letters</i>, 2019.</font>
 
 * <font size="3em" color="black"> Bo-Sang Kim, Jee-Young Sun, <b>Seung-Wook Kim</b>, Mun-Cheon Kang, and Sung-Jea Ko, "CNN-based UGS method using Cartesian-to-polar coordinate transformation," <i>Electronics Letters</i>, 2018.</font>
 
