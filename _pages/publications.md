@@ -5,12 +5,17 @@ author_profile: true
 ---
 
 ### Submitted/In preparation
-* <font size="3em" color="black"> Yong-Goo Shin, Cheol-Hwan Yoo, <b>Seung-Wook Kim</b>, Euiyeol Oh, Sung-Jea Ko, "Deep style learning with convolutional neural network for fashion recommendation," submitted to <i>Electronic Letters</i>.</font>
+* <font size="3em" color="black"> Yong-Goo Shin, Cheol-Hwan Yoo, <b>Seung-Wook Kim</b>, Euiyeol Oh, and Sung-Jea Ko, "Deep style learning with convolutional neural network for fashion recommendation," submitted to <i>Electronic Letters</i>.</font>
+
+* <font size="3em" color="black"> Yong-Goo Shin, Min-Cheol Sagong, Yoon-Jae Yeo, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "PEPSI++: Fast and lightweight network for image inpainting," submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>.</font>
+
+* <font size="3em" color="black"> Seo-Won Ji\*, <b>Seung-Wook Kim\*</b>, Dong-Pan Lim, Sang-Won Lee, and Sung-Jea Ko, "Cascade noise estimation and network pruning method based on stochastic importance scoring for efficient image denoising," submitted to <i>Signal Processing</i>.</font>
 
 ### Conference Papers
-* <font size="3em" color="black"> <b>Seung-Wook Kim</b>, Sung-Jin Cho, Kwang-Hyun Uhm, Seo-Won Ji, Sang-Won Lee, and Sung-Jea Ko, "Evaluating Parameterization Methods for Convolutional Neural Network (CNN)-Based Image Operators," to appear in <i>CVPRW 2019</i>.</font>
+* <font size="3em" color="black"> <b>Seung-Wook Kim</b>, Sung-Jin Cho, Kwang-Hyun Uhm, Seo-Won Ji, Sang-Won Lee, and Sung-Jea Ko, "Evaluating parameterization methods for convolutional neural network (CNN)-based image operators," <i>CVPRW 2019</i>, Long Beach, USA, 2019.</font>
 
-* <font size="3em" color="black"> Min-Cheol Sagong, Yong-Goo Shin, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Fast Image Inpainting with Parallel Decoding Network," to appear in <i>CVPR 2019</i>.</font>
+* <font size="3em" color="black"> Min-Cheol Sagong, Yong-Goo Shin, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "PEPSI: Fast image inpainting with parallel decoding network," <i>CVPR 2019</i>, Long Beach, USA, 2019.</font>
+
 
 * <font size="3em" color="black"> Sung-Jin Cho, <b>Seung-Wook Kim</b>, Kwang-Hyun Uhm, Hyong-Keun Kook, and Sung-Jea Ko, "Learning an object detector using zoomed object regions," <i>ICEIC 2019</i>, Auckland, New Zealand, 2019.</font>
 
