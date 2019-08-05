@@ -9,7 +9,7 @@ author_profile: true
 
 * <font size="3em" color="black"> Yong-Goo Shin, Min-Cheol Sagong, Yoon-Jae Yeo, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "PEPSI++: Fast and lightweight network for image inpainting," submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>.</font>
 
-* <font size="3em" color="black"> Seo-Won Ji\*, <b>Seung-Wook Kim\*</b>, Dong-Pan Lim, Sang-Won Lee, and Sung-Jea Ko, "Cascade noise estimation and network pruning method based on stochastic importance scoring for efficient image denoising," submitted to <i>Signal Processing</i>.</font>
+* <font size="3em" color="black"> Seo-Won Ji*, <b>Seung-Wook Kim*</b>, Dong-Pan Lim, Sang-Won Lee, and Sung-Jea Ko, "Cascade noise estimation and network pruning method based on stochastic importance scoring for efficient image denoising," submitted to <i>Signal Processing</i>.</font>
 
 ### Conference Papers
 * <font size="3em" color="black"> <b>Seung-Wook Kim</b>, Sung-Jin Cho, Kwang-Hyun Uhm, Seo-Won Ji, Sang-Won Lee, and Sung-Jea Ko, "Evaluating parameterization methods for convolutional neural network (CNN)-based image operators," <i>CVPRW 2019</i>, Long Beach, USA, 2019.</font>
