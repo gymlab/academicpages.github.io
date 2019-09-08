@@ -19,9 +19,10 @@ I am currently a research professor in the [School of Electrical Engineering](ht
 * Illumination/color normalization
 
 ### News
+* 3rd place in NAVER AI Rush 2019 (Image classification & click-through rate prediction)
 * One paper is accepted by CVPRW 2019.
 * One paper is accepted by CVPR 2019.
-* Winner of NAVER AI Hackathon 2018 (Image retrieval).
+* Winner in NAVER AI Hackathon 2018 (Image retrieval).
 * One paper is accepted by ECCV 2018.
 
 ### Computer Skills
