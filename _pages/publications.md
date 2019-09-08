@@ -12,8 +12,6 @@ author_profile: true
 * <font size="3em" color="black"> Seo-Won Ji*, <b>Seung-Wook Kim*</b>, Dong-Pan Lim, Sang-Won Lee, and Sung-Jea Ko, "Cascade noise estimation and network pruning method based on stochastic importance scoring for efficient image denoising," submitted to <i>Signal Processing</i>.</font>
 
 ### Conference Papers
-* <font size="3em" color="black"> <b>Seung-Wook Kim</b>, Sung-Jin Cho, Kwang-Hyun Uhm, Seo-Won Ji, Sang-Won Lee, and Sung-Jea Ko, "Evaluating parameterization methods for convolutional neural network (CNN)-based image operators," <i>CVPRW 2019</i>, Long Beach, USA, 2019.</font>
-
 * <font size="3em" color="black"> Min-Cheol Sagong, Yong-Goo Shin, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "PEPSI: Fast image inpainting with parallel decoding network," <i>CVPR 2019</i>, Long Beach, USA, 2019.</font>
 
 
@@ -38,6 +36,11 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 * <font size="3em" color="black"> <b>Seung-Wook Kim</b>, June-Young Jung, Seung Park, and Sung-Jea Ko, "Enhanced illumination normalization for LBP-based face recognition," <i>ICEIC 2014</i>, Kota Kinabalu, Malaysia, 2014.</font>
 
 * <font size="3em" color="black"> <b>Seung-Wook Kim</b>, June-Young Jung, Seung-Jun Lee, Aldo W. Morales, and Sung-Jea Ko, "Sensor fusion-based people counting system using the active appearance models," <i>ICCE 2013</i>, Las Vegas, USA, 2013.</font>
+
+### Workshop Papers
+* <font size="3em" color="black"> <b>Seung-Wook Kim</b>, Sung-Jin Cho, Kwang-Hyun Uhm, Seo-Won Ji, Sang-Won Lee, and Sung-Jea Ko, "Evaluating parameterization methods for convolutional neural network (CNN)-based image operators," <i>CVPRW 2019</i>, Long Beach, USA, 2019.</font>
+
+* <font size="3em" color="black"> Jee-Young Sun, <b>Seung-Wook Kim</b>, Sang-Won Lee, Ye-Won Kim, and Sung-Jea Ko, "Reverse and Boundary Attention Network for Road Segmentations," <i>ICCVW 2019</i>, Seoul, Korea, 2019.</font>
 
 ### Journal Articles
 * <font size="3em" color="black"> Ming Fan, Dae-Hong Lee, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Optimization framework for inverse tone mapping using a single low dynamic range image," to appear in <i>Signal Processing: Image Communication</i>.</font>
