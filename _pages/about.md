@@ -19,11 +19,12 @@ I am currently a research professor in the [School of Electrical Engineering](ht
 * Illumination/color normalization
 
 ### News
+* 1st/2nd places in AIM Raw-to-RGB mapping Track at ICCV 2019.
+* Two papers are accepted by ICCVW 2019.
 * 3rd place in NAVER AI Rush 2019 (Image classification & click-through rate prediction)
 * One paper is accepted by CVPRW 2019.
 * One paper is accepted by CVPR 2019.
 * Winner in NAVER AI Hackathon 2018 (Image retrieval).
-* One paper is accepted by ECCV 2018.
 
 ### Computer Skills
 * Operating systems: Windows, Ubuntu
