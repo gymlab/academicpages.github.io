@@ -12,6 +12,9 @@ author_profile: true
 * <font size="3em" color="black"> Seo-Won Ji*, <b>Seung-Wook Kim*</b>, Dong-Pan Lim, Sang-Won Lee, and Sung-Jea Ko, "Cascade noise estimation and network pruning method based on stochastic importance scoring for efficient image denoising," submitted to <i>Signal Processing</i>.</font>
 
 ### Conference Papers
+* <font size="3em" color="black"> Sung-Jin Cho, Kwang-Hyun Uhm, <b>Seung-Wook Kim</b>, Seo-Won Ji, and Sung-Jea Koo, "Parallel Feature Pyramid Network for Image Denoising," <i>to appear in ICCE 2020</i>, Las Vegas, USA, 2020.</font>
+
+
 * <font size="3em" color="black"> Min-Cheol Sagong, Yong-Goo Shin, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "PEPSI: Fast image inpainting with parallel decoding network," <i>CVPR 2019</i>, Long Beach, USA, 2019.</font>
 
 
