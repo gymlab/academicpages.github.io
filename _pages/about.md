@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research professor in the [School of Electrical Engineering](https://ee.korea.ac.kr/), [Korea University](http://korea.ac.kr/mbshome/mbs/university/), Seoul, Korea. I received the B.S. and Ph.D. degrees from [Korea University](http://korea.ac.kr/mbshome/mbs/university/), Seoul, Korea, in 2012 and 2019, respectively.
+I am currently a staff researcher at Samsung Advanced Institute of Technology, Suwon, Korea. I was a research professor in the [School of Electrical Engineering](https://ee.korea.ac.kr/), [Korea University](http://korea.ac.kr/mbshome/mbs/university/), Seoul, Korea in 2019. I received the B.S. and Ph.D. degrees from [Korea University](http://korea.ac.kr/mbshome/mbs/university/), Seoul, Korea, in 2012 and 2019, respectively.
 
 ### Research Interests
 * Deep learning
