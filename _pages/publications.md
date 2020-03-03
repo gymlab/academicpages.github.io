@@ -7,8 +7,6 @@ author_profile: true
 ### Submitted/In preparation
 * <font size="3em" color="black"> Yong-Goo Shin, Cheol-Hwan Yoo, <b>Seung-Wook Kim</b>, Euiyeol Oh, and Sung-Jea Ko, "Deep style learning with convolutional neural network for fashion recommendation," submitted to <i>Electronic Letters</i>.</font>
 
-* <font size="3em" color="black"> Yong-Goo Shin, Min-Cheol Sagong, Yoon-Jae Yeo, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "PEPSI++: Fast and lightweight network for image inpainting," submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>.</font>
-
 * <font size="3em" color="black"> Seo-Won Ji*, <b>Seung-Wook Kim*</b>, Dong-Pan Lim, Sang-Won Lee, and Sung-Jea Ko, "Cascade noise estimation and network pruning method based on stochastic importance scoring for efficient image denoising," submitted to <i>Signal Processing</i>.</font>
 
 ### Conference Papers
@@ -46,6 +44,8 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 * <font size="3em" color="black"> Jee-Young Sun, <b>Seung-Wook Kim</b>, Sang-Won Lee, Ye-Won Kim, and Sung-Jea Ko, "Reverse and Boundary Attention Network for Road Segmentations," <i>ICCVW 2019</i>, Seoul, Korea, 2019.</font>
 
 ### Journal Articles
+* <font size="3em" color="black"> Yong-Goo Shin, Min-Cheol Sagong, Yoon-Jae Yeo, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "PEPSI++: Fast and lightweight network for image inpainting," to appear in <i>IEEE Transactions on Neural Networks and Learning Systems</i>.</font>
+
 * <font size="3em" color="black"> Ming Fan, Dae-Hong Lee, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "Optimization framework for inverse tone mapping using a single low dynamic range image," to appear in <i>Signal Processing: Image Communication</i>.</font>
 
 * <font size="3em" color="black"> Chul-Hwan Yoo, Yong-Gu Shin, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "Context-aware encoding for clothing semantic parsing," <i>Electronics Letters</i>, 2019.</font>
