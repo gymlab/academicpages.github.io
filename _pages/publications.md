@@ -44,6 +44,8 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 * <font size="3em" color="black"> Jee-Young Sun, <b>Seung-Wook Kim</b>, Sang-Won Lee, Ye-Won Kim, and Sung-Jea Ko, "Reverse and Boundary Attention Network for Road Segmentations," <i>ICCVW 2019</i>, Seoul, Korea, 2019.</font>
 
 ### Journal Articles
+* <font size="3em" color="black"> Cheol-Hwan Yoo, Seo-Won Ji, Yong-Goo Shin, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "Fast and Accurate 3D Hand Pose Estimation via Recurrent Neural Network for Capturing Hand Articulations," <i>IEEE Access</i>, 2020.</font>
+
 * <font size="3em" color="black"> Yoon-Jae Yeo, Yong-Goo Shin, Min-Cheol Sagong, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "Simple yet effective way for improving the performance of lossy image compression," to appear in <i>IEEE Signal Processing Letters</i>.</font>
 
 * <font size="3em" color="black"> Yong-Goo Shin, Min-Cheol Sagong, Yoon-Jae Yeo, <b>Seung-Wook Kim</b>, and Sung-Jea Ko, "PEPSI++: Fast and lightweight network for image inpainting," to appear in <i>IEEE Transactions on Neural Networks and Learning Systems</i>.</font>
