@@ -53,9 +53,7 @@ author_profile: true
 ### Conference Papers
 * <font size="3em" color="black"> Sung-Jin Cho, Kwang-Hyun Uhm, <b>Seung-Wook Kim</b>, Seo-Won Ji, and Sung-Jea Koo, "Parallel Feature Pyramid Network for Image Denoising," <i> ICCE 2020</i>, Las Vegas, USA, 2020.</font>
 
-
 * <font size="3em" color="black"> Min-Cheol Sagong, Yong-Goo Shin, <b>Seung-Wook Kim</b>, Seung Park, and Sung-Jea Ko, "PEPSI: Fast image inpainting with parallel decoding network," <i>CVPR 2019</i>, Long Beach, USA, 2019.</font>
-
 
 * <font size="3em" color="black"> Sung-Jin Cho, <b>Seung-Wook Kim</b>, Kwang-Hyun Uhm, Hyong-Keun Kook, and Sung-Jea Ko, "Learning an object detector using zoomed object regions," <i>ICEIC 2019</i>, Auckland, New Zealand, 2019.</font>
 
@@ -84,9 +82,11 @@ convolutional neural networks," <i>IEEE 31st International Symposium on Computer
 
 * <font size="3em" color="black"> Kwang-Hyun Uhm, <b>Seung-Wook Kim</b>, Seo-Won Ji, Sung-Jin Cho, Jun-Pyo Hong, and Sung-Jea Ko, "W-Net: Two-Stage U-Net With Misaligned Data for Raw-to-RGB Mapping," <i>ICCVW 2019</i>, Seoul, Korea, 2019.</font>
 
+* <font size="3em" color="black"> Jee-Young Sun, <b>Seung-Wook Kim</b>, Sang-Won Lee, Ye-Won Kim, and Sung-Jea Ko, "Reverse and Boundary Attention Network for Road Segmentations," <i>ICCVW 2019</i>, Seoul, Korea, 2019.</font>
+
 * <font size="3em" color="black"> <b>Seung-Wook Kim</b>, Sung-Jin Cho, Kwang-Hyun Uhm, Seo-Won Ji, Sang-Won Lee, and Sung-Jea Ko, "Evaluating parameterization methods for convolutional neural network (CNN)-based image operators," <i>CVPRW 2019</i>, Long Beach, USA, 2019.</font>
 
-* <font size="3em" color="black"> Jee-Young Sun, <b>Seung-Wook Kim</b>, Sang-Won Lee, Ye-Won Kim, and Sung-Jea Ko, "Reverse and Boundary Attention Network for Road Segmentations," <i>ICCVW 2019</i>, Seoul, Korea, 2019.</font>
+* <font size="3em" color="black"> Abdelhamed et al., "NTIRE 2019 challenge on real image denoising: Methods and results," <i>CVPRW 2019</i>, Long Beach, USA, 2019.</font>
 
 ### Domestic Papers
 * <font size="3em" color="black"> <b>김승욱</b>, 김준연, 선지영, 고성제, "보행자 검출기의 성능 향상을 위한 인지시각 시스템의 특성에 기반한 특징 추출 기법," 대한전자공학회 추계학술대회 논문집, 2016.</font>
