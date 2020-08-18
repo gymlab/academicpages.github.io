@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Seung-Wook Kim [CV](https://github.com/gymlab/gymlab.github.io/blob/master/files/cv_swkim_ku.pdf)"
+title: "Seung-Wook Kim [(CV)](https://github.com/gymlab/gymlab.github.io/blob/master/files/cv_swkim_ku.pdf)"
 excerpt: "About me"
 author_profile: true
 redirect_from:
