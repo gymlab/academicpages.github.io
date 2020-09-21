@@ -19,7 +19,8 @@ I am currently a staff researcher at Samsung Advanced Institute of Technology, S
 * Illumination/color normalization
 
 ### News
-* One paper is accepted by IEEE Network Magazine.
+* One paper has been accepted by IEEE Access.
+* One paper has been accepted by IEEE Network Magazine.
 * 1st/2nd places in AIM Raw-to-RGB mapping Track at ICCV 2019.
 * Two papers are accepted by ICCVW 2019.
 * 3rd place in NAVER AI Rush 2019 (Image classification & click-through rate prediction)
