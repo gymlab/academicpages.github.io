@@ -10,9 +10,13 @@ author_profile: true
 * <font size="3em" color="black"> Seo-Won Ji*, <b>Seung-Wook Kim*</b>, Dong-Pan Lim, Sang-Won Lee, and Sung-Jea Ko, "Cascade noise estimation and network pruning method based on stochastic importance scoring for efficient image denoising," submitted to <i>Signal Processing</i>.</font>
 
 ### Journal Articles
-* <font size="3em" color="black"> Fan Ming*, <b>Seung-Wook Kim*</b>, Sung-Tae Kim, Jee-Young Sun, and Sung-Jea Ko, "Simple but Effective Scale Estimation for Monocular Visual Odometry in Road Driving Scenarios," to appear in <i>IEEE Access</i>. (*Equal contribution)</font>
 
-* <font size="3em" color="black"> <b>Seung-Wook Kim</b>, Keun-Soo Ko, Han-Eul Ko, and Victor Leung, "Edge Network-Assisted Real-Time Object Detection Framework for Autonomous Driving," to appear in <i>IEEE Network Magazine</i>.</font>
+
+* <font size="3em" color="black"> Sung-Jin Cho, Jae Ryun Chung, <b>Seung-Wook Kim</b>, Seung-Won Jung, and Sung-Jea Ko, "Compression Artifacts Reduction Using Fusion of Multiple Restoration Networks," <i>IEEE Access</i>, 2021.</font>
+
+* <font size="3em" color="black"> <b>Seung-Wook Kim</b>, Keun-Soo Ko, Han-Eul Ko, and Victor Leung, "Edge Network-Assisted Real-Time Object Detection Framework for Autonomous Driving," <i>IEEE Network</i>, 2021.</font>
+
+* <font size="3em" color="black"> Fan Ming*, <b>Seung-Wook Kim*</b>, Sung-Tae Kim, Jee-Young Sun, and Sung-Jea Ko, "Simple but Effective Scale Estimation for Monocular Visual Odometry in Road Driving Scenarios," <i>IEEE Access</i>, 2020. (*Equal contribution)</font>
 
 * <font size="3em" color="black"> Seo-Won Ji, <b>Seung-Wook Kim</b>, Sung-Ho Chae, Dong-Pan Lim, and Sung-Jea Ko, "Quaternary Census Transform Based on the Human Visual System for Stereo Matching," <i>IEEE Access</i>, 2020.</font>
 
